@@ -1,0 +1,17 @@
+{
+"companyName": "Tag Team",
+"productName": "Hack Fury",
+"productVersion": "1.0",
+"dataUrl": "gmtk2020 build.data.unityweb",
+"wasmCodeUrl": "gmtk2020 build.wasm.code.unityweb",
+"wasmFrameworkUrl": "gmtk2020 build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "gmtk2020 build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
